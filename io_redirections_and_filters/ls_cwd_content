@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 anonyx anonyx 4096 Jun 15 17:43 .
+drwxr-xr-x 6 anonyx anonyx 4096 Jun 15 14:45 ..
+-rwxr--r-- 1 anonyx anonyx   32 Jun 15 14:55 0-hello_world
+-rwxr--r-- 1 anonyx anonyx   28 Jun 15 15:29 1-confused_smiley
+-rwxr--r-- 1 anonyx anonyx   28 Jun 15 15:46 2-hellofile
+-rwxr--r-- 1 anonyx anonyx   39 Jun 15 16:01 3-twofiles
+-rwxr--r-- 1 anonyx anonyx   33 Jun 15 16:10 4-lastlines
+-rwxr--r-- 1 anonyx anonyx   29 Jun 15 16:15 5-firstlines
+-rwxr--r-- 1 anonyx anonyx   40 Jun 15 16:21 6-third_line
+-rwxr--r-- 1 anonyx anonyx   81 Jun 15 17:38 7-file
+-rwxr--r-- 1 anonyx anonyx   36 Jun 15 17:42 8-cwd_state
+-rw-r--r-- 1 anonyx anonyx   28 Jun 15 14:52 README.md
+-rw-r--r-- 1 anonyx anonyx   13 Jun 15 17:39 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 anonyx anonyx   47 Jun 15 16:27 iacta
+-rw-r--r-- 1 anonyx anonyx    0 Jun 15 17:43 ls_cwd_content
